@@ -1,0 +1,7 @@
+2
+lineitem 6001215
+3
+l_discount 11 l_returnflag 3 l_shipmode 7 
+part.partsupp 800000
+3
+ps_partkey 200000 p_partkey 200000 p_size 50 

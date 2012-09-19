@@ -1,0 +1,9 @@
+
+CREATE TABLE region (r_regionkey INTEGER, r_name STRING, r_comment STRING) AS HEAP
+
+CREATE TABLE nation (n_nationkey INTEGER, n_name STRING, n_regionkey INTEGER, n_comment STRING) AS HEAP
+
+
+INSERT region.tbl INTO region
+
+DROP TABLE region

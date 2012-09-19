@@ -1,0 +1,10 @@
+3
+p1 200000
+2
+d_partkey 300 p_partkey 100000 
+p2 200000
+2
+d_partkey 300 p_partkey 100000 
+part 200000
+2
+d_partkey 300 p_partkey 100000 
